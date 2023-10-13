@@ -1,0 +1,6 @@
+1. Begin
+2. initalize a variable G to 1
+3. repeat the following steps while G is less than 6:
+4. Display "Welcome to java"
+5. Increment G by 1
+6. End

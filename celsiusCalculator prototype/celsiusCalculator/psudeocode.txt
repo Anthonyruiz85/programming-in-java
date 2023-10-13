@@ -1,0 +1,7 @@
+1. Begin
+2. create Scanner object named myObj to read input from the user 
+3. Display "Enter celsius"
+4. reads and store user input into a variable named celsius
+5. Calculate Farenheit (faren) using the formula faren = celsius + 9.0/5* celsius +32
+6. Display celsius + "degrees celsius" +"is equal to" + faren + "farenehight
+7. End
