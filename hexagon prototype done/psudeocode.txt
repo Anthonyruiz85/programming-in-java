@@ -1,0 +1,16 @@
+1.Start
+2.Scanner input created
+3.Display"please enter the lengnht of a side of a Hexagon"
+4.hexagon();
+5. new Hexagon userHexagon = sideOfHexagon 7
+6. new Hexagon userHexagon2 = -157.554
+7.Display userHexagon.CalculateAreaOfHexagonWithOneSide
+8.Display userHexagon2.CalculateAreaOfHexagonWithOneSide
+9.Done
+
+
+Hexagon()
+1.  intialze private _SideOfHexagon and private AreaOfHexagon as double
+2. Acessor this._SideOfHexagon created and equal to SideOfHexagon
+3. method CalculateAreaOfHexagonWithOneSide() created
+4. CalcualAreaOfHexagonWithOneSide returns 6^2 + this._SideOfHexagon / 4* tan + pi/6
