@@ -1,0 +1,9 @@
+1. start
+2. Scanner userInput created
+3. display " please Enter a month number"
+4. read userMonth from user
+5. display "please enter the year"
+6. read userYear from user
+7. Calander named calander created that displays userYear userMonth and days in a month
+8. display "The number of days in month" %s "in the year" %s "is" %s"
+9. End

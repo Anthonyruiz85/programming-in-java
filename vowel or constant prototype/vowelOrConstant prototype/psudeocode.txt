@@ -1,0 +1,9 @@
+1. Start
+2. Scanner named userInput created
+3. Display "input a letter to see if its a vowel or constant"
+4. read a single character from user input and store it in input
+5. if user types a,i,e,o,u in lowecase or uppercase display "you just inputted a vowel"
+6. else if user types b,c,d,f,g,j,k,l,m,n,p,q,s,t,v,x,z,h,r,w,y in lowercase or uppercase
+7.display "you just inputted a constant"
+8. else display "INVALID answer. Please type a character."
+9. End

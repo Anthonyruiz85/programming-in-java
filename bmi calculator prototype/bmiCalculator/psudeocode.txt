@@ -1,0 +1,14 @@
+1. start
+2. Scanner created userInput
+3. display "enter your weight"
+4. read weight from user
+5. display "enter your height in feet"
+6. read feet from user
+7. display "enter your height in inches"
+8. read inches from user 
+9. set height = feet*12 + inches
+10. set results to weight/height pow2*703;
+11. if results less than or equal to 18.5 display "underweight"
+12. if results are greater than or equal to 18.5 and less than or equal to 24.9 display "healthyweight"
+13. if results are greater than or equal to 25.0 and less than or equal to 29.0 display "overweight"
+14. if results are greater than or equal to 30 display "obese"

@@ -7,16 +7,17 @@ System.out.println("input a letter to see if its a vowel or constant:");
 
 
 char input = userInput.findInLine(".").charAt(0);/*  this line allows user char input  
- to be stored in the input variable   */
- if (input == 'a' || input == 'e' || input == 'i' || input == 'o' ||/* if statements check if user inputs 
+
+to be stored in the input variable   */
+ if (input == 'a' ||  input =='A'||input == 'e' ||input == 'E'  || input == 'i' ||input =='I'|| input == 'o' ||input == 'O'|/* if statements check if user inputs 
  vowel  */
- input == 'u'||  input == 'y')
+ input == 'u'||input == 'U'||  input == 'y' |input =='Y'){
         System.out.println("you inputted a vowel");
- else // else statement prints statement below if you dont input a vowel
+ }else // else statement prints statement below if you dont input a vowel
     
-    if (input == 'B' || input == 'C' || input =='D' ||input =='F' ||input =='G' ||input =='J' ||input =='K'||
-      input== 'L' ||input == 'M' ||input == 'N'  ||input == 'P' ||input =='Q' ||input =='S' ||input == 'T' ||
-      input == 'V' ||input == 'X' ||input == 'Z' || input =='H'||input == 'R'||input == 'W'|| input == 'Y')
+    if (input == 'b' ||input =='B'|| input == 'c' ||input =='C'|| input =='d' ||input =='D'||input =='f' ||input =='F'|input =='g' ||input =='G'||input =='j' ||input =='J'||input =='k'||input =='K'|
+      input== 'l' ||input == 'L'||input == 'm' ||input =='M'||input == 'n'  |input == 'N'|input == 'p' ||input == 'P'|input =='q' ||input =='Q'|input =='s' ||input =='S'||input == 't' |input =='T'|
+      input == 'v' ||input == 'V'||input == 'x' ||input =='X'||input == 'z' ||input =='Z'|| input =='h'||input == 'H'||input == 'r'||input == 'R'||input == 'w'||input =='W'||input == 'y'|input =='Y')
     System.out.println("you just inputted a constant");
    
      else
