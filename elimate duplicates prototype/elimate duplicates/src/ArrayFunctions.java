@@ -24,9 +24,10 @@ if(dupe){
 
 distinct[i] = list[i];
 
+}
 return Arrays.stream(distinct).filter(num-> num != 0).toArray();
-}
-}
+
+  }
 }
 
 

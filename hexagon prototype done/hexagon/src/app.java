@@ -14,5 +14,5 @@ Hexagon userHexagonTwo = new Hexagon(-175.5547);
 
 System.out.println(userHexagon.CalculateAreaOfHexagonWithOneSide());
 System.out.println(userHexagonTwo.CalculateAreaOfHexagonWithOneSide());
- }
+ } 
 }
