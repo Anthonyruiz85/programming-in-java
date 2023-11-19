@@ -1,0 +1,13 @@
+1.Start
+2.displays users numbers sorted from lowest to highest
+
+
+
+displaySortedNumbers()
+1.Scanner, scanner created
+2. ARRAY, Array created
+3.int i=0;
+4.Display"enter three numbers"
+5.store 3 numbers from userInput into Array
+6.Array gets sorted
+7.all array values gets displayed to user

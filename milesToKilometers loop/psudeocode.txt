@@ -1,0 +1,6 @@
+1. Start
+2. intalize int miles equal to 1 intalize kilometers as a double
+3. Display"miles          kilometers"
+4.while miles <=10 multiply miles* 1.609 and store value in double  kilometers
+5.Display "miles             kilometers"
+6.End

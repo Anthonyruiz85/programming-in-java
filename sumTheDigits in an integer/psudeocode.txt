@@ -1,0 +1,21 @@
+1.Start
+2.Scanner userInput created
+3.Display "enter the number you wish to evaluate"
+4.long num is equal to next int typed in by user
+5.if num<0 
+6.Display "please enter a postivie number"
+7.return
+8.initatilize results as int and haace iit equal to sumDigits(num)
+9.Display "the sum of numbers is" results
+10.End
+
+
+
+
+
+sumdigits(long n)
+1.initalize sumDigits equal to 0
+2.while n>0
+3.intaileize moduleo as int and hav it equal to n%10
+4.n=n/10
+5.return sumDigits

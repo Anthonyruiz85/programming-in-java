@@ -1,0 +1,16 @@
+1. Start
+2. intalize tuitionCalculator() method
+3. return display statements from tuitionCalculator()
+4. End
+
+
+
+
+
+
+tuitionCalculator()
+2. initialize year as int and tuition as double
+3. Display "in 10 years the tution cost will be"
+4. if year <= 14   tuition =year*10000+(year *10000*0.05);
+5. if year equals 10 Display tuition
+6. if year equals 14 display tuition
