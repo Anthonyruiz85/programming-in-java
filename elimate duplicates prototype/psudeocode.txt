@@ -1,0 +1,18 @@
+1.Start
+2.Array vals = {1,2,3,2,1,6,3,4,5,2}
+3.Array printed without duplicates [1,2,3,6,4,5]
+4.End
+
+
+
+
+eliminateDuplicates()
+1. Array distinct created with the length of list
+2.if i< list.length
+3. boolean dupe=false
+4.for j<list.length
+5. if list[i] equals distinct[j]
+6.dupe equals true and breaks loop
+7.if dupe continue 
+8. distinct[i] = list[i]
+9.Array returns with duplicates filtered
