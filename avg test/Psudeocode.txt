@@ -1,0 +1,45 @@
+1. Start
+2. constant SIZE declared as int =10
+3. double array, doubleArray created can hold 10 
+user inputted values
+4. Scanner scan created
+5.for loop that accepts 10  double userInputted values
+6. double averageSum created, averageSum calls upon 
+average(doubleArray) method that combines all userinputted values 
+and then divides them
+7. Display "average of your double array is" + averageSum
+8. End
+
+
+
+public static int average(int[]array)
+1. Initalize int avg =0 and sum =0
+2. Display "enter 10 double values"
+3.for each loop that combines all the values the users enters and stores the 
+result in a variable value
+4. return avg / array.length
+
+
+ the int method prints a message
+
+
+public static double average(double[] array)
+1. intalize sum as a double =0
+2. for each loop that combines all the values the user enters and stores
+the result in a variable value
+3. return sum / array'length
+
+
+the double method dose the combination of user values
+
+
+
+
+ 
+
+
+
+
+
+
+End
